@@ -19,13 +19,13 @@ This project uses the following technologies:
 - CSS
 - JavaScript
 
-#Installation
+# Installation
 
 To use this project, simply download or clone the repository to your local machine:
 
 `git clone https://github.com/ShravanAmudala55/Tic-Tac-Toe`
 
-#Features
+# Features
 - Two players can play against each other.
 - Scoreboard keeps track of wins and ties.
 - Local storage is used to store the score.
